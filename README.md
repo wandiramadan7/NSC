@@ -1,2 +1,2 @@
-# NSC
+# NSP
 Next Sentence Prediction
